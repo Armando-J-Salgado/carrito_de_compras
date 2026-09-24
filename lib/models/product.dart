@@ -1,13 +1,17 @@
 ///Product representation class
 ///
-///params: [name], [description], [price], [image]
+///params: [name], [description], [price], [imagePath]
 class Product {
-
   final String name;
   final String description;
   final double price;
   ///Find them in lib/images
-  final String image;
+  final String imagePath;
 
-  Product(this.name, this.description, this.price, this.image);
+  const Product({
+    required this.name,
+    required this.description,
+    required this.price,
+    required this.imagePath,
+  });
 }
