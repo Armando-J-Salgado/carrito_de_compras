@@ -2,6 +2,14 @@
 
 Aplicacion movil hecha con Flutter para simular un carrito de compras.
 
+**Integrantes del Equipo 7:**
+- José Alexander Alas Leiva
+- Jade Nicole Cárcamo Vasquez
+- Eliezer Alexander Martínez Chámul
+- Nehemías Emanuel Rivas Umañana
+- Armando José Salgado Rosa
+- Luz Giselle Salomón Zandoval
+
 ## Que tiene
 
 - Catalogo de productos.
