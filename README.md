@@ -6,7 +6,7 @@ Aplicacion movil hecha con Flutter para simular un carrito de compras.
 - José Alexander Alas Leiva
 - Jade Nicole Cárcamo Vasquez
 - Eliezer Alexander Martínez Chámul
-- Nehemías Emanuel Rivas Umañana
+- Nehemías Emanuel Rivas Umaña
 - Armando José Salgado Rosa
 - Luz Giselle Salomón Zandoval
 
